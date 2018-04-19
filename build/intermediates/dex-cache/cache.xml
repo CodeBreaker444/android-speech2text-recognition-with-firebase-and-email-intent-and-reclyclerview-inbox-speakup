@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.6.1.aar\a320b6fd4189b39fcf44a13ed4196823\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\dba9a63c2603d52a869a2a3337c06280\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\816f1f25d99b7e6ca24b27ff6429c190\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\eab7e59fe991febb04b9eca03ad1b4ab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3d1f430ea7ec0f99b5997e10b5cae08c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d5f36d02520e6f0f0b1f885211e0ca16\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\407f0078eceb2cea452cc562727c9b9b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\420cdff4dbc33a3d1b340180acf3e3fb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\1e46acecf12839298f43d9577d7ef59a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\bcbb95043e646dbd95c44ea429701ef1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\e6f29ebcea5a82b2404484fc7d72703e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\ef15d7836338c1a69547fa30150f5687\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.6.1.aar\78e273e85dd4f30c55f7524c4ed444c5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\e43c6b49c9c4079965c614dd29c8f5f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\025d6c1ecc619e8ec76863a19b1d5778\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\f944349c5df3d1c44fc17b17de88b49a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\4296aa8ffa62e4c9bcef652ed96a6419\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\685bff15868d93e024e7b65d17ee02e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\d67afb91579968bc6303d27dd7830d66\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\dd4ad55c83a4088721618bc16efea0f7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.6.1.aar\7c4c3dabeb2e541f1b2dd71d96d2b918\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\ae474b941ce2a2e3f45e3583a502a6b4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CB\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\bac653f3ea2555b3646aa1359c61c054\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="D:\AndroidStudioProjects\BMAIL\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+
+</items>
