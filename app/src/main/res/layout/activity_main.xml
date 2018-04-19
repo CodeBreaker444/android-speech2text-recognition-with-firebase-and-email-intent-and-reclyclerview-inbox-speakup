@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:padding="12dp"
+    tools:context="com.cbstartech.bmail.bmail.com.cbstartech.bmail.s2t.MainActivity">
+
+
+
+    <Button
+        android:id="@+id/inbox"
+        style="?android:textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="16dp"
+        android:background="#1de9b6"
+        android:text="Inbox"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <EditText
+        android:id="@+id/editText0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editText"
+        android:layout_centerVertical="true"
+        android:hint="TO"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:hint="Subject"
+        android:layout_above="@+id/editText1"
+        android:layout_marginBottom="40dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:hint="Message"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+
+    <ImageButton
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="50sp"
+android:layout_below="@+id/editText1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_background" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:text="SEND"
+        android:id="@+id/send"
+        android:background="#00f44d"
+        android:textSize="20dp"/>
+</RelativeLayout>
