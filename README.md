@@ -31,4 +31,3 @@ PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=code
 
 Website: [StarTech](http://cbstartech.com).
 
-
