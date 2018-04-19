@@ -27,7 +27,7 @@ Donations Help Me to Keep The Support and Development: [Click Here](https://payp
 
 FollowMe: [Click Here](https://facebook.com/zer0error/).
 
-PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.gsl.whatsrooting).
+PlayStore Link-Not Available in PlayStore.
 
 Website: [StarTech](http://cbstartech.com).
 
