@@ -29,5 +29,5 @@ FollowMe: [Click Here](https://facebook.com/zer0error/).
 
 PlayStore Link-Not Available in PlayStore.
 
-Website: [StarTech](http://cbstartech.com).
+Website: [Personal](https://govardhanchitrada.me).
 
